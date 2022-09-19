@@ -28,7 +28,7 @@
 - :computer: I'm currently working on learning TypeScript
 - :hourglass_flowing_sand: Exploring React Native & TypeScript
 - :rocket: Always ready to collaborate for Dev Experiments
-- :Graduate Cap: Graduate of Nucamp coding bootcamp
+- :Graduation Cap: Graduate of Nucamp coding bootcamp
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to learn easier methods to code<br>
 
