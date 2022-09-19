@@ -23,7 +23,7 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏾‍💻 About Me:</h2>
 
 - :computer: I'm currently working on learning TypeScript
 - :hourglass_flowing_sand: Exploring React Native & TypeScript
