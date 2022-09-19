@@ -30,7 +30,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - 🎓 Graduate of Nucamp coding bootcamp
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love the world of anime<br>
+- :zap: Fun fact: I love the Marvel Cinematic Universe 🦸🏾‍♂️<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
