@@ -26,7 +26,7 @@
 
 <h2 align="left">👨🏾‍💻 About Me:</h2>
 
-- :computer: I'm currently working on learning TypeScript
+- :computer: I'm currently learning TypeScript
 - :hourglass_flowing_sand: Exploring React  & TypeScript
 - :rocket: Always ready to collaborate for Dev Experiments
 - 🎓 Graduate of Nucamp coding bootcamp
