@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Chadwin Allotey, a Frontend Developer :computer:<br>
+  <br> I'm Chadwin Allotey, a React Native Developer :computer:<br>
   <br>
     <img src="https://res.cloudinary.com/dare4cvkk/image/upload/v1663545375/blue_boy_typing_nothought_w1tojj.gif" alt="Coder GIF" width="500">
  </abc>
